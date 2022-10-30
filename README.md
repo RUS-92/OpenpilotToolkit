@@ -4,9 +4,7 @@
 
 Class library and toolkit for interacting with your openpilot / comma devices.
 
-<a href='https://github.com/spektor56/OpenpilotToolkit/releases/download/1.8.0/OpenpilotToolkit.7z' target='_blank'>Download for Windows</a>
-
-<a href='https://github.com/spektor56/OpenpilotToolkit/releases/download/1.1.0/com.spektor56.openpilottoolkitandroid-Signed.apk' target='_blank'>Download For Android</a>
+<a href='https://archive.org/download/openpilot-toolkit.-7z/OpenpilotToolkit.7z' target='_blank'>Download for Windows</a>
 
 Current Features
 ------
@@ -27,13 +25,13 @@ Android app:
 Screenshots
 ------
 
-![openpilot Toolkit Exporter](https://i.imgur.com/GAG527Q.png)
-![openpilot Toolkit Remote](https://i.imgur.com/eog5Bhp.png)
-![openpilot Toolkit Explorer](https://i.imgur.com/DkBxWfU.png)
-![openpilot Toolkit Fingerprint Wizard](https://i.imgur.com/Nq1dW2k.png)
-![openpilot Toolkit SSH Wizard](https://i.imgur.com/9nQLkxy.png)
-![openpilot Toolkit Fork Installer](https://i.imgur.com/Qp5pQlK.png)
-![openpilot Toolkit Terminal](https://i.imgur.com/3MVi4b9.png)
+![openpilot Toolkit Exporter](https://web.archive.org/web/20221030164516if_/https://i.imgur.com/GAG527Q.png)
+![openpilot Toolkit Remote](https://web.archive.org/web/20221030164633if_/https://i.imgur.com/eog5Bhp.png)
+![openpilot Toolkit Explorer](https://web.archive.org/web/20221030164759if_/https://i.imgur.com/DkBxWfU.png)
+![openpilot Toolkit Fingerprint Wizard](https://web.archive.org/web/20221030164919if_/https://i.imgur.com/Nq1dW2k.png)
+![openpilot Toolkit SSH Wizard](https://web.archive.org/web/20221030165025if_/https://i.imgur.com/9nQLkxy.png)
+![openpilot Toolkit Fork Installer](https://web.archive.org/web/20221030165141if_/https://i.imgur.com/Qp5pQlK.png)
+![openpilot Toolkit Terminal](https://web.archive.org/web/20221030165237if_/https://i.imgur.com/3MVi4b9.png)
 
 Support / Donate
 ------
